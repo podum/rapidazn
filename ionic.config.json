@@ -1,0 +1,7 @@
+{
+  "name": "rapidazn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
